@@ -16,6 +16,10 @@ body {
     font-family: 'Cabin', sans-serif;
 }
 
+.no-scroll {
+    overflow-y: hidden;
+}
+
 .flex {
     display: flex;
     align-items: center;
